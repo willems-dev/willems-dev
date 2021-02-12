@@ -8,6 +8,7 @@
 
 ### Currently working with
 > Vue.js\
+> Nuxt.js\
 > Inertia.js\
 > Laravel
 
